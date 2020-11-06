@@ -1,7 +1,7 @@
 {
   "name": "@petals/spacer",
   "version": "0.0.0",
-  "description": "",
+  "description": "Spacer component",
   "main": "style.scss",
   "sass": "style.scss",
   "scripts": {
